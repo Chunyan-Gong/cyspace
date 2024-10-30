@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Probability on CY-Blog</title>
+    <link>https://Chunyan-Gong.github.io/cyspace/tags/probability/</link>
+    <description>Recent content in Probability on CY-Blog</description>
+    <generator>Hugo -- 0.136.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://Chunyan-Gong.github.io/cyspace/tags/probability/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bernoulli Experiments</title>
+      <link>https://Chunyan-Gong.github.io/cyspace/posts/20241022-bernoulli-experiments/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://Chunyan-Gong.github.io/cyspace/posts/20241022-bernoulli-experiments/</guid>
+      <description>&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+    &lt;meta charset=&#34;UTF-8&#34;&gt;
+    &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;
+    &lt;title&gt;Bernoulli Experiments&lt;/title&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;styles.css&#34;&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;main&gt;
+        &lt;!-- Removed the Table of Contents --&gt;
+
+        &lt;!-- First Section --&gt;
+        &lt;details&gt;
+            &lt;summary&gt;The Origin of Bernoulli Experiments&lt;/summary&gt;
+            &lt;section id=&#34;the-origin-of-bernoulli-experiments&#34; style=&#34;margin-left: 20px; margin-top: 10px;&#34;&gt;
+                &lt;p&gt;The idea of the Bernoulli experiment comes from Jacob Bernoulli, a well-known mathematician from the 17th century who was fascinated by the randomness of life—like rolling dice or flipping coins. He wanted to understand these random processes mathematically and came up with a simple but powerful framework that described experiments with only two possible outcomes: success or failure. You can think of it like flipping a coin, where the outcome is either heads (success) or tails (failure).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
